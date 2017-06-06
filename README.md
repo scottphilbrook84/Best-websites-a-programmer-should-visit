@@ -4,15 +4,6 @@
 	<br>
 </h1>
 
-# Best-websites-a-programmer-should-visit
-Some useful websites for programmers.
-
-When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit, this list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
-
-# When you get stuck
-   * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
-   * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
-
 # News
    * [Hacker News](https://news.ycombinator.com/) : subscribe to their mailing list and get the top news directly to your inbox.
    * [Ars Technica](http://arstechnica.com/): posts unique quality articles
@@ -21,17 +12,6 @@ When learning CS there are some useful sites you must know to get always informe
    * [TechCrunch](http://techcrunch.com/) : another good website for tech news
    * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
    * [product hunt ](https://www.producthunt.com/): Discover your next favorite thing
-
-# Coding practice for beginners
-   * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
-   * [Programming by Doing](http://programmingbydoing.com/): very good site for those who want to start with absolute basics
-   * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/): Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-   * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Solutions to most of the problems in the link above
-   * [Small Programming Challenges](https://www.nayuki.io/category/programming)
-   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-   * [Lod - Cloud](http://lod-cloud.net/): The Linking Open Data cloud diagram
-   * [Cave of programming](https://caveofprogramming.com/): Learn to program, Upgrade your skills.  
 
 # For those who want to start a small project but cant find the ideas
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
