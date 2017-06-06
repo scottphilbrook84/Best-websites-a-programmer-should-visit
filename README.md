@@ -124,9 +124,6 @@
 
 # MOOCs for learning something new
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
-  * [Coursera.org](http://coursera.org/)
-  * [edX](http://edx.org/)
-  * [Udacity](http://udacity.com/)
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [MIT OCW Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   * [CS50](https://www.youtube.com/user/cs50tv/videos)
@@ -168,9 +165,6 @@
   * [PHD MS Articles ](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
   * [Practical Tips for Talking at Usergroups and Conferences ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
   * [ Giving presentation on software project to non-programmers ](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
-
-# Everything in one place
-  * [reddit.com/me/m/cs_student_subs ](http://www.reddit.com/me/m/cs_student_subs) : a multisubreddit of all subreddits of topics related to computer science and programming.
 
 # YouTube Channels
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : Must watch for every CS student
@@ -302,7 +296,6 @@
   * [Pastebin.com ](http://pastebin.com/)
 
 # Blogs of Developers
-  * [Coding Horror](http://blog.codinghorror.com/) : one the best coding blog
   * [Joel on Software](http://joelonsoftware.com/)
   * [ Stephen Haunts { Coding in the Trenches } ](https://stephenhaunts.com/)
   * [Programming in the 21st Century](http://prog21.dadgum.com/)
