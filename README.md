@@ -222,7 +222,6 @@
 
 # Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
-  * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
   * [Open Data Structures ](http://opendatastructures.org/) : Excellent resource for learning about DS and algos , provides code in various languages C++ , Java , pseudocode
   * [Data Structures and Algorithms by John Morris ](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : another good source with code and its analysis
   * [CMSI 281: Data Structures ](http://cs.lmu.edu/~ray/classes/dsa/) : light weight introduction to DS
@@ -261,15 +260,8 @@
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
-
-# Watch others code
-  * [LiveCoding.tv  ](https://www.livecoding.tv/)- screencast of people building application , websites , games ect.
-
 # What should a programmer know
   * [Programmer Competency Matrix  ](http://sijinjoseph.com/programmer-competency-matrix/): article for knowing what our level as a programmer is.
-  
-  * [GitHub.com Build software better, together  ](https://github.com/): Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
-  * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
 # Competitive programming
   * [HackerRank ](http://hackerrank.com/)
@@ -359,6 +351,5 @@
   * [Big Think](https://www.youtube.com/user/bigthink/videos)
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
-  * [Reddit the front page of the internet](http://reddit.com/)
 
   ___Maintained with :heart: by sdmg15___
