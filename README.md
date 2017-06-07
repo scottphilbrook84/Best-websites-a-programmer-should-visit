@@ -9,7 +9,6 @@
    * [Ars Technica](http://arstechnica.com/): posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-   * [TechCrunch](http://techcrunch.com/) : another good website for tech news
    * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
    * [product hunt ](https://www.producthunt.com/): Discover your next favorite thing
 
