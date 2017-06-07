@@ -233,7 +233,6 @@
   * [Deep C  ](http://www.slideshare.net/olvemaudal/deep-c): very good presentation on C language
   * [C programming language Frequently Asked Questions ](http://c-faq.com/index.html)
   * [OS Course Notes ](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
-  * [SQL (Structured Query Language) in one page : SQL.SU ](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
   * [Introduction to C Programming ](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
   * [MySQL Essentials ](http://www.techotopia.com/index.php/MySQL_Essentials)
   * [http://www.mysqltutorial.org/ ](http://www.mysqltutorial.org/)
@@ -331,9 +330,7 @@
   * [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
 
 # When you get bored from CS related stuff
-  * [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
-  * [Guide to Grammar and Writing](http://grammar.ccc.commnet.edu/grammar/) for those who want to improve their english language skills.
-  * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+   * [Vsauce ](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
   * [TED ](https://www.youtube.com/user/TEDtalksDirector/videos)
   * [CrashCourse ](https://www.youtube.com/user/crashcourse/videos) : small courses on various subjects
   * [National Geographic ](https://www.youtube.com/user/NationalGeographic/videos)
@@ -344,5 +341,3 @@
   * [Big Think](https://www.youtube.com/user/bigthink/videos)
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
-
-  ___Maintained with :heart: by sdmg15___
